@@ -17,6 +17,7 @@
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
+- [💻 Frontend Repository](#frontend-repo)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
@@ -59,7 +60,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://hello-react-front-end.onrender.app/api/v1/greetings)
+- [Live Demo Link](https://hello-rails-back-end-ih47.onrender.com/api/v1/greetings)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,6 +151,19 @@ Heroku (Paid)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FRONT-END REPOSITORY -->
+## 💻 Front-end Repository <a name="frontend-repo"></a>
+
+- [Click Here](https://github.com/skyv26/hello-react-front-end)
+
+- Clone this repository to your desired folder:
+
+- Example command:
+
+  ```
+    git clone https://github.com/skyv26/hello-react-front-end.git
+    cd hello-react-front-end
+  ```
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>

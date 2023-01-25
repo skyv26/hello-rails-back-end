@@ -60,7 +60,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://hello-rails-back-end-ih47.onrender.com/api/v1/greetings)
+- [Upcoming soon 🎈]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

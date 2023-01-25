@@ -47,3 +47,5 @@ group :development do
 end
 
 gem 'rubocop', '~> 1.44'
+
+gem 'rack-cors', '~> 1.1'

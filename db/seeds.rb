@@ -1,30 +1,30 @@
 greetingsList = [
   {
-    "greeting": "Slam 👋"
+    :greeting => "Slam 👋"
   },
   {
-    "greeting": "As-salamu alaykum 🤲"
+    :greeting => "As-salamu alaykum 🤲"
   },
   {
-    "greeting": "Namaste 🇮🇳"
+    :greeting => "Namaste 🇮🇳"
   },
   {
-    "greeting": "Jambo 🇺🇬"
+    :greeting => "Jambo 🇺🇬"
   },
   {
-    "greeting": "Shikamoo 🇰🇪"
+    :greeting => "Shikamoo 🇰🇪"
   },
   {
-    "greeting": "Good Morning 🌞"
+    :greeting => "Good Morning 🌞"
   },
   {
-    "greeting": "Good Night 🌃"
+    :greeting => "Good Night 🌃"
   },
   {
-    "greeting": "Bye Bye 🖐️"
+    :greeting => "Bye Bye 🖐️"
   }
 ]
 
-greetingsList.each do | greeting |
-  Greeting.create(greeting:)
+greetingsList.each do | msg |
+  Greeting.create(greeting: msg[:greeting])
 end
